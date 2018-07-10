@@ -7,11 +7,9 @@ Paragliding Standards and Proposals
 
 ## Paraglider Standard Attributes
 
-A paraglider can be described by a number of attributes. So far, different manufacturers use different attribute names.
+A paraglider wing can be described by a number of attributes.
 
-For example `Takeoff weight` and `Weight in flight` are the same, just called differently.
-
-That's what makes it hard for pilots to compare paragliders.
+Different manufacturers use different attribute names. For example `Takeoff weight` and `Weight in flight` are the same, just called differently. That's what makes it hard for pilots to compare paragliders.
 
 To build [gliderbase.com](https://gliderbase.com) required describing a paraglider in a comparable, machine-readable format.
 

@@ -37,7 +37,7 @@ Also, a **trimmer** system is available.
           "value": "LTF/EN-A"
         },
         {
-          "name": "FLAT_AREA",
+          "name": "AREA_FLAT",
           "value": "24",
           "unit": "m2"
         },

@@ -2,6 +2,9 @@
 
 Paragliding Standards and Proposals
 
+![Paragliding pilot enjoying an evening flight](https://raw.githubusercontent.com/Kadrian/para-std/master/nicolas-tissot-435976-unsplash.jpg)
+<sup>Photo by Nicolas Tissot on Unsplash</sup>
+
 ## Paraglider Standard Attributes
 
 A paraglider can be described by a number of attributes. So far, different manufacturers use different attribute names.
@@ -20,9 +23,9 @@ I'm proposing a standard way of describing a paraglider in a JSON format.
 
 ### Simple Example
 
-A wing called **Wing 123** by the manufactuerer **Great Wings Inc.**, which is available in one Size:
+A wing called **Wing 123** by the manufactuerer **Great Wings Inc.**, which is available in one size:
 **S**.
-For that size, the area is **24 m2**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
+That size was certified as EN-A, the area is **24 m2**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
 Also, a **trimmer** system is available.
 
 ```javascript

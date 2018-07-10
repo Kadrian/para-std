@@ -78,10 +78,10 @@ Also, a **trimmer** system is available.
 
 ### Possible attribute names
 
-Here's a proposal for possible paraglider attribute names.
+Here's a proposal for possible paraglider attribute names that can be interesting to pilots.
 This covers most of what a paraglider manufacturer specifies for a new wing.
 
-Right now, these attributes mostly cover
+Right now, these attributes mostly concern:
 
 * Paraglider geometry
 * Paraglider flight characteristics

@@ -123,18 +123,22 @@ Especially, paraglider materials are _not_ covered yet. Contributions are always
 | STRING     | RISERS                      | Risers                       |
 | NUMBER     | MAX_LINE_LENGTH_WITH_RISERS | Max. line length with risers |
 
-**Rare, used by individual manufacturers**
+**Rare, used by individual manufacturers, sometimes controversial**
 
 | Usual type | Name                             | English description                  |
 | ---------- | -------------------------------- | ------------------------------------ |
-| STRING     | MINI_WING_CHARACTER              | Mini Wing Character                  |
+| NUMBER     | BEST_GLIDE                       | Best glide                           |
 | NUMBER     | MIN_SINK_RATE                    | Min. sink rate                       |
+| STRING     | NUMBER_MAIN_LINES                | Number of main lines                 |
+| STRING     | MINI_WING_CHARACTER              | Mini Wing Character                  |
 | BOOL       | HAS_TRIMMER                      | Has trimmer                          |
 | NUMBER     | SEATS                            | Seats                                |
 | BOOL       | SHOCK_AND_LOAD_TEST              | Shock and load test                  |
 | STRING     | CERTIFICATION_NUMBER             | Certification number                 |
 | STRING     | CERTIFICATION_PROCEDURES         | Certification procedures             |
 | BOOL       | CERTIFICATION_FOLDING_LINES_USED | Folding lines used for certification |
+| NUMBER     | LINEAR_SCALING_FACTOR            | Linear scaling factor                |
+| NUMBER     | LINE_LENGTH                      | Line length                          |
 
 ### The attribute format
 

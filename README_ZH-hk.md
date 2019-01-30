@@ -130,7 +130,7 @@ Kadrian提出了一種用JSON格式描述一套滑翔傘傘具的資料標準。
 
 **較少使用，極少數廠商提供**
 
-| Usual type | Name                             | English description                  | 
+| Usual type | Name                             | English description                  | 中文                 |
 | ---------- | -------------------------------- | ------------------------------------ | -------------------- |
 | NUMBER     | BEST_GLIDE                       | Best glide                           | 最佳滑翔              |
 | NUMBER     | MIN_SINK_RATE                    | Min. sink rate                       | 最小沉降率            |

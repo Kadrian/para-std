@@ -4,11 +4,11 @@
 
 -----------
 
-[English](//github.com/Kadrian/para-std)  |  [简体中文](//github.com/Kadrian/para-std/blob/master/README_ZH-cn.md)   |  [繁体中文](//github.com/Kadrian/para-std/blob/master/README_ZH-hk.md)
+[English](/README.md)  |  [简体中文](/README_ZH-cn.md)   |  [繁體中文](/README_ZH-hk.md)
 
 -----------
 
-![滑翔伞飞行员夜飞中](//raw.githubusercontent.com/Kadrian/para-std/master/nicolas-tissot-435976-unsplash.jpg)
+![滑翔伞飞行员夜飞中](/nicolas-tissot-435976-unsplash.jpg)
 <sup>Nicolas Tissot 拍摄发布于Unsplash</sup>
 
 ## 滑翔伞标准熟悉

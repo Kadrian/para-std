@@ -29,7 +29,7 @@ I'm proposing a standard way of describing a paraglider in a JSON format.
 
 A wing called **Wing 123** by the manufactuerer **Great Wings Inc.**, which is available in one size:
 **S**.
-That size was certified as **LTF/EN-A**, the area is **24 m2**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
+That size was certified as **LTF/EN-A**, the area is **24 m<sup>2</sup>**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
 Also, a **trimmer** system is available.
 
 ```javascript
@@ -49,7 +49,7 @@ Also, a **trimmer** system is available.
         {
           "name": "AREA_FLAT",
           "value": "24",
-          "unit": "m2"
+          "unit": "m²"
         },
         {
           "name": "TAKEOFF_WEIGHT",

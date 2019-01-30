@@ -2,6 +2,12 @@
 
 Paragliding Standards and Proposals
 
+-----------
+
+[English](//github.com/Kadrian/para-std)  |  [簡體中文](//github.com/Kadrian/para-std/blob/master/README_ZH-cn.md)   |  [繁體中文](//github.com/Kadrian/para-std/blob/master/README_ZH-hk.md)
+
+-----------
+
 ![Paragliding pilot enjoying an evening flight](https://raw.githubusercontent.com/Kadrian/para-std/master/nicolas-tissot-435976-unsplash.jpg)
 <sup>Photo by Nicolas Tissot on Unsplash</sup>
 

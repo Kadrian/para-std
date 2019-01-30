@@ -2,7 +2,13 @@
 
 Paragliding Standards and Proposals
 
-![Paragliding pilot enjoying an evening flight](https://raw.githubusercontent.com/Kadrian/para-std/master/nicolas-tissot-435976-unsplash.jpg)
+-----------
+
+[English](/README.md)  |  [简体中文](/README_ZH-cn.md)   |  [繁體中文](/README_ZH-hk.md)
+
+-----------
+
+![Paragliding pilot enjoying an evening flight](/nicolas-tissot-435976-unsplash.jpg)
 <sup>Photo by Nicolas Tissot on Unsplash</sup>
 
 ## Paraglider Standard Attributes
@@ -23,7 +29,7 @@ I'm proposing a standard way of describing a paraglider in a JSON format.
 
 A wing called **Wing 123** by the manufactuerer **Great Wings Inc.**, which is available in one size:
 **S**.
-That size was certified as **LTF/EN-A**, the area is **24 m2**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
+That size was certified as **LTF/EN-A**, the area is **24 m<sup>2</sup>**, The **certified takeoff weight** ranges from **90 kg** to **120 kg**.
 Also, a **trimmer** system is available.
 
 ```javascript
@@ -43,7 +49,7 @@ Also, a **trimmer** system is available.
         {
           "name": "AREA_FLAT",
           "value": "24",
-          "unit": "m2"
+          "unit": "m²"
         },
         {
           "name": "TAKEOFF_WEIGHT",
